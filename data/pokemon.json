@@ -1,0 +1,960 @@
+[
+  {
+    "name": "bulbasaur",
+    "id": 1,
+    "base_experience": 64,
+    "height": 7,
+    "weight": 69,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "moves": [
+      {
+        "name": "razor-wind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "swords-dance",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "cut",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "bind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "vine-whip",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+  },
+  {
+    "name": "ivysaur",
+    "id": 2,
+    "base_experience": 142,
+    "height": 10,
+    "weight": 130,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "moves": [
+      {
+        "name": "swords-dance",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "cut",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "bind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "vine-whip",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+  },
+  {
+    "name": "venusaur",
+    "id": 3,
+    "base_experience": 263,
+    "height": 20,
+    "weight": 1000,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "moves": [
+      {
+        "name": "swords-dance",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "cut",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "bind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "vine-whip",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+  },
+  {
+    "name": "charmander",
+    "id": 4,
+    "base_experience": 62,
+    "height": 6,
+    "weight": 85,
+    "types": [
+      "fire"
+    ],
+    "moves": [
+      {
+        "name": "mega-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "fire-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "thunder-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "scratch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "swords-dance",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+  },
+  {
+    "name": "charmeleon",
+    "id": 5,
+    "base_experience": 142,
+    "height": 11,
+    "weight": 190,
+    "types": [
+      "fire"
+    ],
+    "moves": [
+      {
+        "name": "mega-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "fire-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "thunder-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "scratch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "swords-dance",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+  },
+  {
+    "name": "charizard",
+    "id": 6,
+    "base_experience": 267,
+    "height": 17,
+    "weight": 905,
+    "types": [
+      "fire",
+      "flying"
+    ],
+    "moves": [
+      {
+        "name": "mega-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "fire-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "thunder-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "scratch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "swords-dance",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+  },
+  {
+    "name": "squirtle",
+    "id": 7,
+    "base_experience": 63,
+    "height": 5,
+    "weight": 90,
+    "types": [
+      "water"
+    ],
+    "moves": [
+      {
+        "name": "mega-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "ice-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "mega-kick",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "tackle",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+  },
+  {
+    "name": "wartortle",
+    "id": 8,
+    "base_experience": 142,
+    "height": 10,
+    "weight": 225,
+    "types": [
+      "water"
+    ],
+    "moves": [
+      {
+        "name": "mega-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "ice-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "mega-kick",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "tackle",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+  },
+  {
+    "name": "blastoise",
+    "id": 9,
+    "base_experience": 265,
+    "height": 16,
+    "weight": 855,
+    "types": [
+      "water"
+    ],
+    "moves": [
+      {
+        "name": "mega-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "ice-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "mega-kick",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "tackle",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+  },
+  {
+    "name": "caterpie",
+    "id": 10,
+    "base_experience": 39,
+    "height": 3,
+    "weight": 29,
+    "types": [
+      "bug"
+    ],
+    "moves": [
+      {
+        "name": "tackle",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "string-shot",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "snore",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "bug-bite",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "electroweb",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+  },
+  {
+    "name": "metapod",
+    "id": 11,
+    "base_experience": 72,
+    "height": 7,
+    "weight": 99,
+    "types": [
+      "bug"
+    ],
+    "moves": [
+      {
+        "name": "string-shot",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "harden",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "iron-defense",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "bug-bite",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "electroweb",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+  },
+  {
+    "name": "butterfree",
+    "id": 12,
+    "base_experience": 198,
+    "height": 11,
+    "weight": 320,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "moves": [
+      {
+        "name": "razor-wind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "gust",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "whirlwind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "tackle",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+  },
+  {
+    "name": "weedle",
+    "id": 13,
+    "base_experience": 39,
+    "height": 3,
+    "weight": 32,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "moves": [
+      {
+        "name": "poison-sting",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "string-shot",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "bug-bite",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "electroweb",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+  },
+  {
+    "name": "kakuna",
+    "id": 14,
+    "base_experience": 72,
+    "height": 6,
+    "weight": 100,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "moves": [
+      {
+        "name": "string-shot",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "harden",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "iron-defense",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "bug-bite",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "electroweb",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+  },
+  {
+    "name": "beedrill",
+    "id": 15,
+    "base_experience": 178,
+    "height": 10,
+    "weight": 295,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "moves": [
+      {
+        "name": "swords-dance",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "cut",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "fury-attack",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "take-down",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+  },
+  {
+    "name": "pidgey",
+    "id": 16,
+    "base_experience": 50,
+    "height": 3,
+    "weight": 18,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "moves": [
+      {
+        "name": "razor-wind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "gust",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "wing-attack",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "whirlwind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "fly",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+  },
+  {
+    "name": "pidgeotto",
+    "id": 17,
+    "base_experience": 122,
+    "height": 11,
+    "weight": 300,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "moves": [
+      {
+        "name": "razor-wind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "gust",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "wing-attack",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "whirlwind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "fly",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+  },
+  {
+    "name": "pidgeot",
+    "id": 18,
+    "base_experience": 216,
+    "height": 15,
+    "weight": 395,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "moves": [
+      {
+        "name": "razor-wind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "gust",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "wing-attack",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "whirlwind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "fly",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+  },
+  {
+    "name": "rattata",
+    "id": 19,
+    "base_experience": 51,
+    "height": 3,
+    "weight": 35,
+    "types": [
+      "normal"
+    ],
+    "moves": [
+      {
+        "name": "cut",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "tackle",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "body-slam",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "take-down",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+  },
+  {
+    "name": "raticate",
+    "id": 20,
+    "base_experience": 145,
+    "height": 7,
+    "weight": 185,
+    "types": [
+      "normal"
+    ],
+    "moves": [
+      {
+        "name": "swords-dance",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "cut",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "tackle",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "body-slam",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png"
+  },
+  {
+    "name": "spearow",
+    "id": 21,
+    "base_experience": 52,
+    "height": 3,
+    "weight": 20,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "moves": [
+      {
+        "name": "razor-wind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "wing-attack",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "whirlwind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "fly",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png"
+  },
+  {
+    "name": "fearow",
+    "id": 22,
+    "base_experience": 155,
+    "height": 12,
+    "weight": 380,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "moves": [
+      {
+        "name": "razor-wind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "wing-attack",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "whirlwind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "fly",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png"
+  },
+  {
+    "name": "ekans",
+    "id": 23,
+    "base_experience": 58,
+    "height": 20,
+    "weight": 69,
+    "types": [
+      "poison"
+    ],
+    "moves": [
+      {
+        "name": "bind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "slam",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "body-slam",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "wrap",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png"
+  },
+  {
+    "name": "arbok",
+    "id": 24,
+    "base_experience": 157,
+    "height": 35,
+    "weight": 650,
+    "types": [
+      "poison"
+    ],
+    "moves": [
+      {
+        "name": "bind",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "slam",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "headbutt",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "body-slam",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "wrap",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png"
+  },
+  {
+    "name": "pikachu",
+    "id": 25,
+    "base_experience": 112,
+    "height": 4,
+    "weight": 60,
+    "types": [
+      "electric"
+    ],
+    "moves": [
+      {
+        "name": "mega-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "pay-day",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "thunder-punch",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "slam",
+        "accuracy": null,
+        "power": null
+      },
+      {
+        "name": "double-kick",
+        "accuracy": null,
+        "power": null
+      }
+    ],
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+  }
+]

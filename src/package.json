@@ -1,0 +1,3 @@
+"scripts": {
+  "fetch-pokemon": "node /Users/hannahansen/Documents/GitHub/pokemon-api/fetchPokemon.js"
+}
